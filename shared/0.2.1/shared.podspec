@@ -3,7 +3,7 @@ Pod::Spec.new do |spec|
     spec.version                  = '0.2.1'
     spec.homepage                 = 'https://touchlab.dev'
     spec.source                   = { 
-                                      :http => 'https://api.github.com/repos/touchlab/KMMBridgeSampleKotlin/releases/assets/80067809.zip',
+                                      :http => 'https://api.github.com/repos/touchlab/KMMBridgeSampleKotlin/releases/assets/80067940.zip',
                                       :type => 'zip',
                                       :headers => ['Accept: application/octet-stream']
                                     }
